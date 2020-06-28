@@ -1,1 +1,1 @@
-## Exercise inspired by https://towardsdatascience.com/heart-disease-uci-diagnosis-prediction-b1943ee835a7 based on https://archive.ics.uci.edu/ml/datasets/Heart+Disease
+## Exercise inspired in https://www.kaggle.com/ronitf/heart-disease-uci and https://towardsdatascience.com/heart-disease-uci-diagnosis-prediction-b1943ee835a7 based on https://archive.ics.uci.edu/ml/datasets/Heart+Disease
