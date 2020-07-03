@@ -1,1 +1,1 @@
-## GAN (generative adversarial network) notebooks and exercises
+## GAN (generative adversarial network) related notebooks and exercises
